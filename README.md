@@ -1,3 +1,6 @@
+<h1><a href="https://chaudhary-19-covid-19-tracker.netlify.app/">Live Application</h1>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
